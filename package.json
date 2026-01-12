@@ -2,6 +2,7 @@
   "name": "3.4. Web",
   "lockfileVersion": 2,
   "requires": true,
+  "engines": 24.x,
   "packages": {
     "node_modules/@sindresorhus/is": {
       "version": "0.14.0",
