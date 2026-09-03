@@ -2833,7 +2833,7 @@
     "node_modules/xlsx": {
       "name": "tempa-xlsx",
       "version": "0.8.20",
-      "resolved": "git+ssh://git@github.com/securedeveloper/js-xlsx.git",
+      "resolved": "git://git@github.com/securedeveloper/js-xlsx.git",
       "license": "Apache-2.0",
       "dependencies": {
         "adler-32": "",
