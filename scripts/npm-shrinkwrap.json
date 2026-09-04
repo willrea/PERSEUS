@@ -2833,7 +2833,7 @@
     "node_modules/xlsx": {
       "name": "tempa-xlsx",
       "version": "0.8.20",
-      "resolved": "https://github.com/securedeveloper/js-xlsx.git#32f550d3b3bdb1b781aabe100683311cd982c98e",
+      "resolved": "https://github.com/securedeveloper/js-xlsx.git",
       "license": "Apache-2.0",
       "dependencies": {
         "adler-32": "",
@@ -5025,7 +5025,7 @@
       "integrity": "sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8="
     },
     "xlsx": {
-      "version": "https://github.com/securedeveloper/js-xlsx.git#32f550d3b3bdb1b781aabe100683311cd982c98e",
+      "version": "https://github.com/securedeveloper/js-xlsx.git",
       "from": "xlsx@https://github.com/securedeveloper/js-xlsx.git",
       "requires": {
         "adler-32": "",
