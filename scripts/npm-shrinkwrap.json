@@ -2317,7 +2317,7 @@
       }
     },
     "node_modules/react-export-excel": {
-      "version": "0.5.3",
+      "version": "0.5.2",
       "resolved": "https://registry.npmjs.org/react-export-excel/-/react-export-excel-0.5.3.tgz",
       "integrity": "sha512-J0xKLojhLYEpgptdJWU7o4NljSQxv96yFNLAfa9M0m1jNNiVXBdBSlWCW713MRFl1ECJRhV4CbrjbmvEjEFvWg==",
       "dependencies": {
