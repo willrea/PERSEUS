@@ -4,7 +4,6 @@
   "description": "",
   "main": "scripts/app.js",
   "scripts": {
-    "preinstall": "git config --global url.\"https://github.com/\".insteadOf ssh://git@github.com/"
     "start": "nodemon scripts/app.js"
   },
   "keywords": [],
