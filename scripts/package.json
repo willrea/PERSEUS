@@ -39,6 +39,4 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
-  "scripts": { "preinstall": "git config --global url.\"https://github.com/\".insteadOf ssh://git@github.com/"
-  }
 }
